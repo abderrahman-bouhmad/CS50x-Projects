@@ -19,3 +19,26 @@ This project uses an SQLite database to retrieve and analyze data from the top 1
 ## 🌐 Technologies Used
 
 - SQLite
+
+## 📜 Database Schema
+Here’s the schema of the songs.db database:
+
+```sql
+CREATE TABLE songs (
+    id INTEGER,
+    name TEXT,
+    artist_id INTEGER,
+    danceability REAL,
+    energy REAL,
+    key INTEGER,
+    loudness REAL,
+    speechiness REAL,
+    valence REAL,
+    tempo REAL,
+    duration_ms INTEGER
+);
+
+CREATE TABLE artists (
+    id INTEGER,
+    name TEXT
+);
