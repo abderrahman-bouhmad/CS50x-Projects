@@ -39,4 +39,4 @@ http://localhost:8080
 
 ## 🖼️ Screenshot
 
-![Trivia Screenshot] ![image](https://github.com/user-attachments/assets/d772332c-2a1b-4057-88b1-dc6bdb20ec30)
+![image](https://github.com/user-attachments/assets/d772332c-2a1b-4057-88b1-dc6bdb20ec30)
