@@ -20,6 +20,23 @@ This project displays two types of trivia questions:
 - CSS
 - JavaScript
 
+## 🚀 How to Run This Flask App Locally
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/abderrahman-bouhmad/CS50x-Projects.git
+cd CS50x-Projects/trivia
+```
+### 2. Install http-server (if you don’t have it already):
+```bash
+npm install -g http-server
+```
+### 3. Start the server and Open the link shown in your terminal:
+```bash
+http-server
+http://localhost:8080
+```
+
 ## 🖼️ Screenshot
 
 ![Trivia Screenshot] ![image](https://github.com/user-attachments/assets/d772332c-2a1b-4057-88b1-dc6bdb20ec30)
